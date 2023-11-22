@@ -1,1 +1,5 @@
-//
+In summary, this contains different concepts to write a sorting program.
+
+A function is a general concept for a block of code that performs a task. 
+Generics add flexibility by allowing you to write code that works with different types. 
+Lambda functions are a concise way to express anonymous functions, often used for short and simple operations.
