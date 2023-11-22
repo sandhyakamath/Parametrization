@@ -1,5 +1,6 @@
 In summary, this contains different concepts to write a sorting program.
 
-A function is a general concept for a block of code that performs a task. 
-Generics add flexibility by allowing you to write code that works with different types. 
-Lambda functions are a concise way to express anonymous functions, often used for short and simple operations.
+bubbleSort01.ts program conatins the sorting logic.
+bubbleSort02.ts program written the sorting logic as a function. A function is a general concept for a reusable block of code that performs a task. 
+bubbleSort03.ts program, written the sorting logic as generics which adds flexibility by allowing you to write code that works with different types. 
+bubbleSort04.ts program contains lambda functions are a concise way to express anonymous functions for sorting logic, often used for short and simple operations.
