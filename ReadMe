@@ -1,4 +1,4 @@
-In summary, each version of the bubble sort program introduces a different concept:
+In summary, each version of the bubble sort program introduces a different concept.
 
 bubbleSort01.ts implements the sorting logic directly.
 bubbleSort02.ts refactors the sorting logic into a function showcasing the general concept for a reusable block of code. 
