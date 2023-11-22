@@ -1,6 +1,6 @@
 In summary, this contains different concepts to write a sorting program.
 
-bubbleSort01.ts program conatins the sorting logic.
-bubbleSort02.ts program written the sorting logic as a function. A function is a general concept for a reusable block of code that performs a task. 
-bubbleSort03.ts program, written the sorting logic as generics which adds flexibility by allowing you to write code that works with different types. 
-bubbleSort04.ts program contains lambda functions are a concise way to express anonymous functions for sorting logic, often used for short and simple operations.
+bubbleSort01.ts implements the sorting logic directly.
+bubbleSort02.ts refactors the sorting logic into a function showcasing the general concept for a reusable block of code. 
+bubbleSort03.ts introduces generics, providing flexibility to the sorting logic by allowing it to work with different types. 
+bubbleSort04.ts incorporates lambda functions, offering a concise and anonymous way to express sorting logic, especially useful for short and simple operations.
